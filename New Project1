@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Keimon Sporttikauppa ja Kahvila</title>
+</head>
+<body>
+
+  <div> 
+    <a href="./tapahtumat.html">Tapahtumat</a>
+    <a href="./muutajännittävää.html">Muuta Jännittävää</a>
+Banner - liitä tähän     
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/2018-07-06_Sinine_silm.jpg/800px-2018-07-06_Sinine_silm.jpg" width="320" height="285" target="_blank"></img>
+      <div><h1> Keimon Sporttikauppa ja Kahvila</h1></div>
+      <br><br><h2>Open All Day Long!Tervetuloa!</h2></div>
+  <a href="https://www.freepik.com/free-photo/steaming-coffee-turk_6216934.htm#fromView=keyword&page=25&position=19&uuid=8aa23ac3-1e4a-425c-8e82-26e12598aeea&query=Coffee+At+Night"target="_blank"><img src="resources,kuvat ym/"target="_blank"> Kahvia yöllä</img></a>
+
+</body>
+
+       <div> <h2>Lisätietoa omistajasta, tutustu facebook-profiiliini ja lue lisää huipputarjouksista!:</h2>
+        <a href="https://kiteezoo.fi/"target="_blank"> <em>Lue lisää täältä</em></a>
+      </div>
+</div>
+
+  <div>
+    <h2>Listaltamme löytyy</h2>
+   <ul>
+      <li>Kahvia ja teetä</li>
+      <li>Pullaa ja nallekarkkeja</li>
+      <li>Proteiinijuomia</li>
+      <li>Vettä ja Vichyä</li>
+   </ul>
+     <p>Kahvi tai tee 1€<br>Pulla ja nallekarkit yksittäin 2€ tai molemmat yhteishintaan 2,80€<br>Vesi ja Vichy 100€ per lasi<br>Ja jos omat tohvelit ja sisäkengät unohtuvat, voit lainata meiltä! PS. Ei omilla kengillä kahvilaan!</p>
+    </div>
+    
+</body>
+
+</html>
